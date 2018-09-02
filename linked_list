@@ -2,14 +2,7 @@
 class HeadLinkedList:
 	def __init__(self):
 		self.headval = None
-
-	def traverse(self):
-		node = self.headval  
-		while node is not None:
-			print(node.val)
-			node = node.next 
-
-
+		
 class Node:
 	def __init__(self, val):
 		self.val = val 
@@ -34,4 +27,3 @@ z4.next = z5
 z5.next = z6 
 z6.next = z7 
 
-linkedlist.traverse()
