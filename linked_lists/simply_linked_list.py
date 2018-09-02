@@ -2,7 +2,7 @@
 class HeadLinkedList:
 	def __init__(self):
 		self.headval = None
-		
+
 class Node:
 	def __init__(self, val):
 		self.val = val 
@@ -27,3 +27,4 @@ z4.next = z5
 z5.next = z6 
 z6.next = z7 
 
+linkedlist.traverse()
