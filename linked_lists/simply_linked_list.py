@@ -27,4 +27,3 @@ z4.next = z5
 z5.next = z6 
 z6.next = z7 
 
-linkedlist.traverse()
