@@ -1,8 +1,8 @@
 # Data Structures and applications
 
 ## Linked Lists
-### Advantages
-### Disadvantages
-### Applications
+#### Advantages
+#### Disadvantages
+#### Applications
 
 
