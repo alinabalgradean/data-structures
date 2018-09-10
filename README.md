@@ -1,9 +1,9 @@
 # Data Structures and applications
 
 ## Linked Lists
-#### Operations (worst-case)
 #### Advantages
 #### Disadvantages
+#### Operations (worst-case)
 #### Applications
 
 
