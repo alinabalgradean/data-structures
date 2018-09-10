@@ -1,4 +1,4 @@
-# Data Structures and applications
+# Data structures 
 
 
 ## Cheatsheet
